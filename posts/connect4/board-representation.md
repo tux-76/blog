@@ -1,8 +1,3 @@
----
-title: Connect-4 AI Board Representation
-author: tux76
-date: March 12, 2025
-___
 
 Connect-4 AI Board Representation
 =================================
@@ -153,3 +148,10 @@ The best data type for your bitboards is going to be a `uint64_t`. This is faste
 
 We will also have an array `uint64_t[7]` to store the locations of the next piece on the bitboard per column. More on this in the next post.
 
+---
+Title: Connect-4 AI Board Representation
+
+Author: tux76
+
+Date: March 12, 2025
+___
