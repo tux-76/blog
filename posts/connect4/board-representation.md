@@ -151,7 +151,7 @@ We will also have an array `uint64_t[7]` to store the locations of the next piec
 ---
 Title: Connect-4 AI Board Representation
 
-Author: tux76
+Author: Tux-76
 
 Date: March 12, 2025
 ___
